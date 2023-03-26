@@ -1,0 +1,47 @@
+body {
+    background-color: #F8F8F8;
+}
+
+.navbar {
+    background-color: #E0C7DE;
+}
+
+.navbar-brand {
+    font-size: x-large;
+    font-family: 'Dancing Script', cursive;
+}
+
+.nav-item:hover {
+    background-color: #F8F8F8;
+}
+
+.img-fluid {
+    width: auto; 
+    height: 100%; 
+    object-fit: cover
+}
+
+h1, h3 {
+    margin: 1vh 0;
+    font-family: 'Dancing Script', cursive;
+}
+
+.divmargin {
+    margin: 1vh 0;
+}
+
+#mbottom {
+    margin-bottom: 210px;
+}
+
+.btn {
+    border-radius: 5%;
+    background-color: #A581A3;
+    border-color: #A581A3;
+}
+
+footer {
+    height: 200px;
+    padding: 8vh 0;
+    background-color: #E0C7DE;
+}
